@@ -12,7 +12,7 @@
 | **Location** | <img src="https://flagcdn.com/48x36/pk.png" width="22"/> Lahore, Pakistan |
 | **Phone** | <img src="https://cdn-icons-png.flaticon.com/512/15/15874.png" width="18"/> +92-314-8299331 |
 | **Email** | <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="18"/> [saad.zahid.810@gmail.com](mailto:saad.zahid.810@gmail.com) |
-| **GitHub** | <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="18"/> [github.com/Saadi-810](https://github.com/Jarvis-331) |
+| **GitHub** | <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="18"/> [github.com/Jarvis-331](https://github.com/Jarvis-331) |
 | **LinkedIn** | <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18"/> [linkedin.com/in/muhammad-saad](https://www.linkedin.com/in/muhmmad-saad/) |
 
 </div>
